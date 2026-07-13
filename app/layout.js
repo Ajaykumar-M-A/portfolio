@@ -1,13 +1,23 @@
 import './globals.css'
+import './components/Navbar/Navbar.css'
+import './components/HeroSection/HeroSection.css'
+import './components/AboutSection/AboutSection.css'
+import './components/SkillsSection/SkillsSection.css'
+import './components/ExperienceSection/ExperienceSection.css'
+import './components/ProjectsSection/ProjectsSection.css'
+import './components/EducationSection/EducationSection.css'
+import './components/ContactSection/ContactSection.css'
+import './components/Footer/Footer.css'
+import './components/ScrollToTop/ScrollToTop.css'
 
 export const metadata = {
-  title: 'Ajaykumar M A | Full Stack Developer',
-  description: 'Full Stack Developer with 1+ year of experience in MERN stack, React Native, and modern web technologies. Based in Kerala, India.',
-  keywords: ['Full Stack Developer', 'MERN Stack', 'React', 'Node.js', 'React Native', 'Kerala'],
+  title: 'Ajaykumar M A | Full Stack Developer Portfolio',
+  description: 'Full Stack Developer portfolio focused on Customer Management, Turf Arena, MERN stack systems, React Native, and responsive product experiences.',
+  keywords: ['Full Stack Developer', 'Customer Management', 'Turf Arena', 'MERN Stack', 'React', 'Node.js', 'React Native', 'Kerala'],
   authors: [{ name: 'Ajaykumar M A' }],
   openGraph: {
-    title: 'Ajaykumar M A | Full Stack Developer',
-    description: 'Full Stack Developer with 1+ year of experience in MERN stack and mobile development.',
+    title: 'Ajaykumar M A | Full Stack Developer Portfolio',
+    description: 'Portfolio highlighting Customer Management, Turf Arena, MERN stack, and mobile-first product delivery.',
     type: 'website',
   },
 }
